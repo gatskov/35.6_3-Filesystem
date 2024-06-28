@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Filesystem.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Filesystem.dir/objects.a @CMakeFiles\Filesystem.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Filesystem.dir/objects.a -Wl,--no-whole-archive -o D:\VSCode\exemple4\35\Filesystem\bin\Filesystem.exe -Wl,--out-implib,D:\VSCode\exemple4\35\Filesystem\bin\libFilesystem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Filesystem.dir\linkLibs.rsp

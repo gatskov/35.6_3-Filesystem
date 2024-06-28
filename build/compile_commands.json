@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/VSCode/exemple4/35/Filesystem/build/src",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Filesystem.dir/includes_CXX.rsp -g -Werror -pedantic-errors -Wall -Wextra -Wpedantic -Wcast-align -Wcast-qual -Wconversion -Wctor-dtor-privacy -Wduplicated-branches -Wduplicated-cond -Wextra-semi -Wfloat-equal -Wlogical-op -Wnon-virtual-dtor -Wold-style-cast -Woverloaded-virtual -Wredundant-decls -Wsign-conversion -Wsign-promo -o CMakeFiles\\Filesystem.dir\\main.cpp.obj -c D:\\VSCode\\exemple4\\35\\Filesystem\\src\\main.cpp",
+  "file": "D:/VSCode/exemple4/35/Filesystem/src/main.cpp",
+  "output": "src/CMakeFiles/Filesystem.dir/main.cpp.obj"
+}
+]
